@@ -1,2 +1,2 @@
-The app can be visited at :
-www.startsoftware.dev/todo
+### To Do
+this is a simple To do web app
